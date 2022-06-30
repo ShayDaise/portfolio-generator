@@ -1,4 +1,4 @@
-module.exports = (name, github) => {
+export default (name, github) => {
   return `
   <!DOCTYPE html>
   <html lang="en">
